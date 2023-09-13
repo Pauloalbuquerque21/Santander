@@ -1,1 +1,2 @@
-Estudo sobre git # Santander
+Santander
+Primeira etapa, estudar sobre git.
